@@ -20,6 +20,10 @@
 
 - Code
 
+  ```
+    pip install datasets
+  ```
+
   ```python
   from datasets import load_dataset
 
